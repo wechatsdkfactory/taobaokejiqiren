@@ -4,34 +4,29 @@
 微信公众号淘客返利系统，淘宝客查券分佣返利系统，微信返利淘客系统，淘客返利机器人系统
 
 #### 软件架构
-软件架构说明
+springboot
+mybaits
+freemaker
+--------------------------源码可出售，具体请加微信happybabby110咨询----------------------
 
+#### 软件特色
 
-#### 安装教程
+1.  可同时为N多公众号服务
+2.  支持淘宝天猫京东拼多多
+3.  基础功能齐全，二次拓展方便
+4.  可提供源码，二次开发灰常简单
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 软件截图
+![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0427/105213_c73aaf94_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
+![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0427/105235_50dbe8f6_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
+![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0427/105244_ef9e150e_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
+![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0427/105255_02e3f38a_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
+![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0427/105305_72cd199b_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
+![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0427/105317_bf434e71_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
+#### 测试体验
+可关注阿宝查券机器人进行体验
+![阿宝查券机器人](http://www.wlkankan.cn/image/202004/597763B6D3EDAF47B940C91CA01BBADF.jpg "阿宝查券机器人")
 
-#### 使用说明
+#### 合作咨询微信happybabby110
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![淘客机器人QQ讨论群](http://www.wlkankan.cn/image/201912/3098E71D26551D482FB4E91373C4B078.png "淘客机器人QQ讨论群")
