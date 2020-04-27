@@ -33,3 +33,5 @@ springboot+mybaits+freemaker
 #### 合作咨询微信happybabby110
 
 ![淘客机器人QQ讨论群](http://www.wlkankan.cn/image/201912/3098E71D26551D482FB4E91373C4B078.png "淘客机器人QQ讨论群")
+
+#### 个人博客[http://www.wlkankan.cn](http://www.wlkankan.cn)
