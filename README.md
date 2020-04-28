@@ -18,7 +18,7 @@ springboot+mybaits+freemaker
 4.  可提供源码，二次开发灰常简单
 
 #### 软件截图
-![微信公众号淘客返利系统-淘宝客查券分佣返利系统]](https://images.gitee.com/uploads/images/2020/0428/101858_8af5bc18_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统].jpg")
+![微信公众号淘客返利系统-淘宝客查券分佣返利系统]](https://images.gitee.com/uploads/images/2020/0428/101858_8af5bc18_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
 ![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0427/105213_c73aaf94_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
 ![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0427/105235_50dbe8f6_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
 ![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0427/105244_ef9e150e_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
