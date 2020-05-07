@@ -31,10 +31,6 @@ springboot+mybaits+freemaker
 
 ![阿宝查券机器人](http://www.wlkankan.cn/image/202004/597763B6D3EDAF47B940C91CA01BBADF.jpg "阿宝查券机器人")
 
-#### 合作咨询微信happybabby110
-
-![淘客机器人QQ讨论群](http://www.wlkankan.cn/image/201912/3098E71D26551D482FB4E91373C4B078.png "淘客机器人QQ讨论群")
-
 
 #### 个人博客
 
@@ -50,4 +46,12 @@ springboot+mybaits+freemaker
 
 
 [个人微信开发SDK](https://gitee.com/tangjinjinwx/Public.WeChat.CRM.SDK/)
+
+
+#### 合作咨询请加微信happybabby110
+
+淘客机器人技术交流QQ群，加群请注明来意
+
+![淘客机器人QQ讨论群](http://www.wlkankan.cn/image/201912/3098E71D26551D482FB4E91373C4B078.png "淘客机器人QQ讨论群")
+
 
