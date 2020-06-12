@@ -31,10 +31,16 @@ springboot+mybaits+freemaker
 
 ![阿宝查券机器人](http://www.wlkankan.cn/image/202004/597763B6D3EDAF47B940C91CA01BBADF.jpg "阿宝查券机器人")
 
+公众号机器人自助搭建公众号后台地址：
+[http://wxmp.sharepay.xyz/login](http://wxmp.sharepay.xyz/login)
+
+公众号机器人自助搭建教程：
+[http://www.wlkankan.cn/cate50/231.html](http://www.wlkankan.cn/cate50/231.html)
 
 #### 个人博客
 
 [http://www.wlkankan.cn](http://www.wlkankan.cn)
+所有资料都有，主要是有点乱，看你会不会找了 :joy: 
 
 
 #### 其他系统方案
