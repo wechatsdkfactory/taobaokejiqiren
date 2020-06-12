@@ -13,7 +13,7 @@ springboot+mybaits+freemaker
 #### 软件特色
 
 1.  可同时为N多公众号服务
-2.  支持淘宝天猫京东拼多多
+2.  支持淘宝天猫京东拼多多查券分佣及返利
 3.  基础功能齐全，二次拓展方便
 4.  可提供源码，二次开发灰常简单
 
@@ -32,14 +32,23 @@ springboot+mybaits+freemaker
 ![阿宝查券机器人](http://www.wlkankan.cn/image/202004/597763B6D3EDAF47B940C91CA01BBADF.jpg "阿宝查券机器人")
 
 公众号机器人自助搭建公众号后台地址：
+
 [http://wxmp.sharepay.xyz/login](http://wxmp.sharepay.xyz/login)
 
+求人不如自己动手，按下面教程自己即可免费搭建一个哦
+
 公众号机器人自助搭建教程：
+
 [http://www.wlkankan.cn/cate50/231.html](http://www.wlkankan.cn/cate50/231.html)
+
+[http://www.wlkankan.cn/cate50/221.html](http://www.wlkankan.cn/cate50/221.html)
+
+[http://www.wlkankan.cn/cate50/226.html](http://www.wlkankan.cn/cate50/226.html)
 
 #### 个人博客
 
 [http://www.wlkankan.cn](http://www.wlkankan.cn)
+
 所有资料都有，主要是有点乱，看你会不会找了 :joy: 
 
 
