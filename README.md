@@ -27,9 +27,9 @@ springboot+mybaits+freemaker
 ![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0427/105317_bf434e71_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
 #### 测试体验
 
-请关注阿宝查券机器人进行体验
+请关注阿宝(阿可)查券机器人进行体验
 
-![阿宝查券机器人](http://www.wlkankan.cn/image/202004/597763B6D3EDAF47B940C91CA01BBADF.jpg "阿宝查券机器人")
+![阿宝(阿可)查券机器人](http://www.wlkankan.cn/image/202004/597763B6D3EDAF47B940C91CA01BBADF.jpg "阿宝(阿可)查券机器人")
 
 公众号机器人自助搭建公众号后台地址：
 
