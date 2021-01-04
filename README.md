@@ -3,12 +3,12 @@
 #### 软件介绍
 微信公众号淘客返利系统，淘宝客查券分佣返利系统，微信返利淘客系统，淘客返利机器人系统
 
-适合程序媛IT人士等赚外快，网购达人省钱购物
+适合程序媛互联网IT人士等赚外快，网购达人省钱购物，想靠公众号赚钱的小伙伴赶快来试试吧
 
 #### 软件架构
 springboot+mybaits+freemaker
 
--------------------------- **源码可出售，具体请加微信happybabby110咨询** ----------------------
+-------------------------- **咨询请加微信happybabby110** ----------------------
 
 #### 软件特色
 
@@ -29,7 +29,7 @@ springboot+mybaits+freemaker
 
 请关注阿宝(阿可)查券机器人进行体验
 
-![阿宝(阿可)查券机器人](http://www.wlkankan.cn/image/202004/597763B6D3EDAF47B940C91CA01BBADF.jpg "阿宝(阿可)查券机器人")
+![阿可查券机器人](http://www.wlkankan.cn/image/202004/597763B6D3EDAF47B940C91CA01BBADF.jpg "阿可查券机器人")
 
 公众号机器人自助搭建公众号后台地址：
 
@@ -75,7 +75,7 @@ springboot+mybaits+freemaker
 #### 微信公众号淘客机器人系统自助问答
  **1、淘客机器人有什么价值？** 
 
-简单的说，淘客机器人是一个可以帮你赚钱的工具，它通过帮助用户查询商品的优惠券来获得官方联盟（一般指阿里妈妈、京东联盟、多多进宝等）的佣金。如果你想让更多的用户来使用你的机器人，可以返利一部分佣金给购买者，这样用的人越多，你就可以躺着收钱了。淘客机器人是怎么赚钱具体请参考http://www.wlkankan.cn/cate49/273.html
+简单的说，淘客机器人是一个可以帮你赚钱的工具，它通过帮助用户查询商品的优惠券来获得官方联盟（一般指阿里妈妈、京东联盟、多多进宝等）的佣金。如果你想让更多的用户来使用你的机器人，可以返利一部分佣金给购买者，这样用的人越多，你就可以躺着收钱了。淘客机器人是怎么赚钱具体请参考[http://www.wlkankan.cn/cate49/273.html](http://www.wlkankan.cn/cate49/273.html)
  **
 2、淘客机器人系统价格体系及如何搭建？** 
 
@@ -87,9 +87,9 @@ springboot+mybaits+freemaker
 
  **b、淘客机器人系统免费版：** 
 
-公众号淘客机器人自助搭建教程（免费搭建并使用） http://www.wlkankan.cn/cate50/221.html 
+公众号淘客机器人自助搭建教程（免费搭建并使用） [http://www.wlkankan.cn/cate50/221.html](http://www.wlkankan.cn/cate50/221.html) 
 
-如果自助搭建需要技术支持，可加微信happybabby110求助
+如果自助搭建需要技术支持，可加微信 **happybabby110** 求助
 
  **3、自助搭建、私有化部署、购买源码区别** 
 
@@ -113,11 +113,11 @@ springboot+mybaits+freemaker
 
  **7、淘客机器人后台登陆地址 ** 
 
-http://wxmp.sharepay.xyz
+[http://wxmp.sharepay.xyz](http://wxmp.sharepay.xyz)
 
- **8、关于免费通用域名被封杀解决方案** 
+ **8、关于免费通用域名无法使用的解决方案** 
 
-有域名的，会配置的可以自己cname解析，具体请参考http://www.wlkankan.cn/cate49/286.html；
+有域名的，会配置的可以自己cname解析，具体请参考[http://www.wlkankan.cn/cate49/286.html](http://www.wlkankan.cn/cate49/286.html)
 
 闲麻烦的，感觉搞不定的可以买我们vip解析，50元/年（其实是永久的），具体请加微信 **happybabby110** 咨询
 
