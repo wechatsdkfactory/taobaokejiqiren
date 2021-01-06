@@ -1,7 +1,7 @@
-# 微信公众号淘客返利系统-淘宝客查券分佣返利系统
+# 微信淘客查券返利机器人-微信淘宝客查券返利系统
 
 #### 软件介绍
-微信公众号淘客返利系统，淘宝客查券分佣返利系统，微信返利淘客系统，淘客返利机器人系统
+微信淘客查券返利机器人，微信淘宝客查券返利系统，微信公众号淘客返利系统，淘宝客查券分佣返利系统，微信返利淘客系统，淘客返利机器人系统
 
 适合程序媛互联网IT人士等赚外快，网购达人省钱购物，想靠公众号赚钱的小伙伴赶快来试试吧
 
@@ -18,20 +18,17 @@ springboot+mybaits+freemaker
 4.  可提供源码，二次开发灰常简单
 
 #### 软件截图
-![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0428/101858_8af5bc18_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统")
-![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0427/105213_c73aaf94_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
-![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0427/105235_50dbe8f6_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
-![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0427/105244_ef9e150e_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
-![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0427/105255_02e3f38a_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
-![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0427/105305_72cd199b_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
-![微信公众号淘客返利系统-淘宝客查券分佣返利系统](https://images.gitee.com/uploads/images/2020/0427/105317_bf434e71_4908820.jpeg "微信公众号淘客返利系统-淘宝客查券分佣返利系统.jpg")
+
+
+![微信淘宝客查券机器人](http://www.wlkankan.cn/image/202009/F15F61E4357981358288CBA96F03A48D.jpg "微信淘宝客查券机器人")
+
 #### 测试体验
 
-请关注阿宝(阿可)查券机器人进行体验
+请关注阿可查券机器人公众号进行体验
 
 ![阿可查券机器人](http://www.wlkankan.cn/image/202004/597763B6D3EDAF47B940C91CA01BBADF.jpg "阿可查券机器人")
 
-公众号机器人自助搭建公众号后台地址：
+微信机器人后台地址：
 
 [http://wxmp.sharepay.xyz](http://wxmp.sharepay.xyz)
 
@@ -39,11 +36,18 @@ springboot+mybaits+freemaker
 
 公众号机器人自助搭建教程：
 
-[http://www.wlkankan.cn/cate50/231.html](http://www.wlkankan.cn/cate50/231.html)
-
 [http://www.wlkankan.cn/cate50/221.html](http://www.wlkankan.cn/cate50/221.html)
 
-[http://www.wlkankan.cn/cate50/226.html](http://www.wlkankan.cn/cate50/226.html)
+
+#### 其他系统方案
+
+[微信个人号淘客返利机器人项目](https://gitee.com/tangjinjinwx/wechatbot)
+
+[个人微信开发SDK](https://gitee.com/tangjinjinwx/Public.WeChat.CRM.SDK/)
+
+
+#### 合作咨询请加微信happybabby110
+
 
 #### 个人博客
 
@@ -51,28 +55,7 @@ springboot+mybaits+freemaker
 
 所有资料都有，主要是有点乱，看你会不会找了 :joy: 
 
-
-#### 其他系统方案
-
-[微信个人号淘客返利机器人项目](https://gitee.com/tangjinjinwx/wechatbot)
-
-
-[微信公众号淘客查券返利系统](https://gitee.com/tangjinjinwx/wechatfanli)
-
-
-[个人微信开发SDK](https://gitee.com/tangjinjinwx/Public.WeChat.CRM.SDK/)
-
-
-#### 合作咨询请加微信happybabby110
-
-淘客机器人技术交流QQ群，加群请注明来意
-
-![淘客机器人QQ讨论群](http://www.wlkankan.cn/image/201912/3098E71D26551D482FB4E91373C4B078.png "淘客机器人QQ讨论群")
-
-
-资料都有，主要是有点乱，看你会不会找了 :joy:
-
-#### 微信公众号淘客机器人系统自助问答
+#### 微信淘客机器人系统自助问答
  **1、淘客机器人有什么价值？** 
 
 简单的说，淘客机器人是一个可以帮你赚钱的工具，它通过帮助用户查询商品的优惠券来获得官方联盟（一般指阿里妈妈、京东联盟、多多进宝等）的佣金。如果你想让更多的用户来使用你的机器人，可以返利一部分佣金给购买者，这样用的人越多，你就可以躺着收钱了。淘客机器人是怎么赚钱具体请参考[http://www.wlkankan.cn/cate49/273.html](http://www.wlkankan.cn/cate49/273.html)
@@ -130,6 +113,9 @@ springboot+mybaits+freemaker
 
 目前自助搭建免费接入公众号有2000多个，在我们服务器扛得住的情况下自助搭建将一直免费（目前快扛不住了），建议有条件的私有化部署。
 
-自助搭建如果需要技术支持，可加微信 **happybabby110** 
+自助搭建技术支持可加微信 **happybabby110** 
+
+
+淘客机器人技术交流QQ群**939685121**，加群请注明来意
 
 
